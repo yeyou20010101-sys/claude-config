@@ -1,0 +1,4 @@
+# Temporary files - not needed across devices
+.DS_Store
+*.swp
+*.tmp
