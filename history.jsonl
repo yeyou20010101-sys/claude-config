@@ -39,3 +39,5 @@
 {"display":"如何公钥和私钥配置好了，我直接ssh -T git@github.com就可以进行验证了吗，私钥公钥与github的交互是自动进行吗","pastedContents":{},"timestamp":1777954676333,"project":"/Users/eternal","sessionId":"9e9f0b18-6d65-4992-84d1-ef3e9648dc7e"}
 {"display":"history.jsonl、sessions、backups里面有什么内容，我是需要不同设备间使用claude能看到历史消息的","pastedContents":{},"timestamp":1777954785061,"project":"/Users/eternal","sessionId":"9e9f0b18-6d65-4992-84d1-ef3e9648dc7e"}
 {"display":"启用","pastedContents":{},"timestamp":1777954852107,"project":"/Users/eternal","sessionId":"9e9f0b18-6d65-4992-84d1-ef3e9648dc7e"}
+{"display":"配置一个skill，当涉及到claude设置同步等操作时，将修改后的设置自动同步到github相应的库里","pastedContents":{},"timestamp":1777955076170,"project":"/Users/eternal","sessionId":"9e9f0b18-6d65-4992-84d1-ef3e9648dc7e"}
+{"display":"1.hook就是钩子吗\n2.暂时不需要设置自动同步钩子\n3.目前配置的这个新skill不是也相当于更改的claude的配置吗，是不是应当执行一次同步","pastedContents":{},"timestamp":1777955452143,"project":"/Users/eternal","sessionId":"9e9f0b18-6d65-4992-84d1-ef3e9648dc7e"}
