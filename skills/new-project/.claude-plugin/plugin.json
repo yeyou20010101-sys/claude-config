@@ -1,0 +1,4 @@
+{
+  "name": "new-project",
+  "description": "Used when user wants to create a new project. Follow workflow: ask for project name (Chinese), discuss and confirm development process and tech stack, then create README.md with the plan. Activates when user says 'create project', 'new project', 'start a project', '新建项目', '创建项目'."
+}
