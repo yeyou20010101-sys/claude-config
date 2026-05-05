@@ -1,0 +1,9 @@
+backups/
+cache/
+ide/
+plugins/
+sessions/
+history.jsonl
+*.jsonl
+shell-snapshots/
+session-env/
