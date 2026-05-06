@@ -2,3 +2,21 @@
 .DS_Store
 *.swp
 *.tmp
+
+# Local machine-specific directories
+backups/
+session-env/
+shell-snapshots/
+cache/
+ide/
+plugins/
+tasks/
+file-history/
+paste-cache/
+
+# Session and history files
+history.jsonl
+*.jsonl
+
+# Machine-specific paths (Windows/Mac差异)
+projects/C--Users-*/
