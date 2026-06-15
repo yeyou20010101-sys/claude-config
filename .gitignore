@@ -19,4 +19,4 @@ tasks/
 projects/
 
 # 内部状态 - 不同步
-# history.jsonl
+history.jsonl
