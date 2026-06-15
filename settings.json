@@ -2,8 +2,6 @@
   "includeCoAuthoredBy": false,
   "permissions": {
     "allow": [
-      "Bash(git check-ignore *)",
-      "Bash(python scripts/build_agent_shells.py)",
       "Bash(python3 *)",
       "Bash(python *)",
       "Bash(git *)"
