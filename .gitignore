@@ -18,5 +18,4 @@ plans/
 projects/
 
 # 内部状态 - 不同步
-.claude.json
 history.jsonl
