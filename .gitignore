@@ -12,10 +12,11 @@ sessions/
 telemetry/
 ide/
 tasks/
-plans/
+.last-cleanup
+# plans/
 
 # 会话记录 - 不同步（每台机器独立）
 projects/
 
 # 内部状态 - 不同步
-history.jsonl
+# history.jsonl
