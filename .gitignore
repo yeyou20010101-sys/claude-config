@@ -1,9 +1,22 @@
-# 机器特定文件 - 不同步
+# 敏感文件 - 不同步
+settings.local.json
+
+# 运行时数据 - 不同步
 backups/
 session-env/
 shell-snapshots/
 cache/
 paste-cache/
+file-history/
+sessions/
+telemetry/
+ide/
+tasks/
+plans/
 
-# Windows 特定路径
-projects/C--Users-*/
+# 会话记录 - 不同步（每台机器独立）
+projects/
+
+# 内部状态 - 不同步
+.claude.json
+history.jsonl

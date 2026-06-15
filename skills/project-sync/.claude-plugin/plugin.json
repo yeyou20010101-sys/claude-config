@@ -1,4 +1,0 @@
-{
-  "name": "project-sync",
-  "description": "Used when user mentions syncing projects between local ~/01_Projects folder and GitHub. Handles git clone/pull from GitHub to local and git commit/push from local to GitHub. Triggers when user says 'sync project', 'pull project', 'push project', 'save to github', 'sync changes', or when project folder operations are needed."
-}

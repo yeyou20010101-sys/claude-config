@@ -1,4 +1,0 @@
-{
-  "name": "auto-sync-config",
-  "description": "Automatically syncs Claude configuration changes to GitHub when settings are modified"
-}
