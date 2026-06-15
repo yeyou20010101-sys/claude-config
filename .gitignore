@@ -1,5 +1,5 @@
 # 敏感文件 - 不同步
-settings.local.json
+settings.json
 
 # 运行时数据 - 不同步
 backups/
