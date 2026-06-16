@@ -34,7 +34,7 @@ SessionEnd   → `git add -A && git commit && git push`（结束后推送）
 
 ## 注意事项
 
-- **永远不要提交 `settings.local.json`**（含 API token）
+- **永远不要提交 `settings.json`**（含 API token）
 - `.gitignore` 已排除敏感文件和运行时数据
 - PostToolUse hook 会在项目目录执行 `git add -A`，如需限定范围自行调整
 - `.claude.json` 两台设备同时修改可能冲突，内容简单手动解决即可
